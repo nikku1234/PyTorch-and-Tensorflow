@@ -2,57 +2,21 @@
 
 [Linear Model](../blob/master/Linerar%20Model.ipynb)
 
-[Linear Model](../blob/master/Linerar%20Model.ipynb)
+[Linear_regression_in_PyTorch_way](../blob/master/Linear_regression_in_PyTorch_way.ipynb)
 
+[Gradient Descent](../blob/master/Gradient%20Descent.ipynb)
 
-[Linear Model](../blob/master/Linerar%20Model.ipynb)
+[Back_propagation_and_PyTorch_autograd](../blob/master/Back_propagation_and_PyTorch_autograd.ipynb)
 
+[CIFAR10](../blob/master/CIFAR10.ipynb)
 
-
-[Linear Model](../blob/master/Linerar%20Model.ipynb)
-
-
-
- [Linear Model](../blob/master/Linerar%20Model.ipynb)
+[Logistic_Regression](../blob/master/Logistic_Regression.ipynb)
  
- 
- [Linear Model](../blob/master/Linerar%20Model.ipynb)
- 
- 
- [Linear Model](../blob/master/Linerar%20Model.ipynb)
+[Going_Wide_and_Deep](../blob/master/Going_Wide_and_Deep.ipynb)
 
-https://github.com/nikku1234/pyTorch/blob/master/Linear_regression_in_PyTorch_way.ipynb
+[Going_Wide_and_Deep](../blob/master/Going_Wide_and_Deep.ipynb)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[Custom_dataLoader](../blob/master/custom_dataLoader.ipynb)
 
 
 
