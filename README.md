@@ -1,3 +1,40 @@
 # pyTorch
 
+[Linear Model](../blob/master/Linerar%20Model.ipynb)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Reference : https://github.com/Ravitha/pyTorch_Examples
