@@ -14,8 +14,6 @@
  
 [Going_Wide_and_Deep](../blob/master/Going_Wide_and_Deep.ipynb)
 
-[Going_Wide_and_Deep](../blob/master/Going_Wide_and_Deep.ipynb)
-
 [Custom_dataLoader](../blob/master/custom_dataLoader.ipynb)
 
 
