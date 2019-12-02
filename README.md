@@ -1,20 +1,20 @@
 # pyTorch
 
-[Linear Model](../blob/master/Linerar%20Model.ipynb)
+[Linear Model](https://github.com/nikku1234/pyTorch/blob/master/Linerar%20Model.ipynb)
 
-[Linear_regression_in_PyTorch_way](../blob/master/Linear_regression_in_PyTorch_way.ipynb)
+[Linear_regression_in_PyTorch_way](https://github.com/nikku1234/pyTorch/blob/master/Linear_regression_in_PyTorch_way.ipynb)
 
-[Gradient Descent](../blob/master/Gradient%20Descent.ipynb)
+[Gradient Descent](https://github.com/nikku1234/pyTorch/blob/master/Gradient%20Descent.ipynb)
 
-[Back_propagation_and_PyTorch_autograd](../blob/master/Back_propagation_and_PyTorch_autograd.ipynb)
+[Back_propagation_and_PyTorch_autograd](https://github.com/nikku1234/pyTorch/blob/master/Back_propagation_and_PyTorch_autograd.ipynb)
 
-[CIFAR10](../blob/master/CIFAR10.ipynb)
+[CIFAR10](https://github.com/nikku1234/pyTorch/blob/master/CIFAR10.ipynb)
 
-[Logistic_Regression](../blob/master/Logistic_Regression.ipynb)
+[Logistic_Regression](https://github.com/nikku1234/pyTorch/blob/master/Logistic_Regression.ipynb)
  
-[Going_Wide_and_Deep](../blob/master/Going_Wide_and_Deep.ipynb)
+[Going_Wide_and_Deep](https://github.com/nikku1234/pyTorch/blob/master/Going_Wide_and_Deep.ipynb)
 
-[Custom_dataLoader](../blob/master/custom_dataLoader.ipynb)
+[Custom_dataLoader](https://github.com/nikku1234/pyTorch/blob/master/custom_dataLoader.ipynb)
 
 
 
