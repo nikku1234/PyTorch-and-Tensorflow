@@ -1,2 +1,2 @@
 # PyTorch-and-Tensorflow
-Repo for both PyTorch and Tensroflow Files
+Repo for both PyTorch and Tensorflow Files
